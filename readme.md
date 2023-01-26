@@ -17,11 +17,9 @@
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/docfehsgla1643fqrqtbi1e4h)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=docfehsgla1643fqrqtbi1e4h&cover_image=false&theme=default&show_offline=false&background_color=121212&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=docfehsgla1643fqrqtbi1e4h&redirect=true)
 
 ---
-
-<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Bgstatic&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
 
 ### Contact with me 📝
 
@@ -32,7 +30,7 @@
 ---
 
 ### Languages and Tools 🛠 
-![C#](https://img.shields.io/badge/-CSharp-3776AB?style=flat-square&logo=csharp&logoColor=ffffff)
+![C#](https://img.shields.io/badge/-CSharp-darkgreen?style=flat-square&logo=csharp&logoColor=white)
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=ffffff)
