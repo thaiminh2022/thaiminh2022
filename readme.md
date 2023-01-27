@@ -24,7 +24,7 @@
 ### Contact with me 📝
 
  [![Gmail](https://img.shields.io/badge/-Gmail-ff0000?style=flat-square&logo=gmail&logoColor=white)](mailto:thaiminh2022@gmail.com)
- [![Facebook](https://img.shields.io/badge/-Facebook-004cff?style=flat-square&logo=facebook&logoColor=white)](www.facebook.com/thaiminh2022)
+ [![Facebook](https://img.shields.io/badge/-Facebook-004cff?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/thaiminh2022)
 <br />
 
 ---
