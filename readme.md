@@ -6,7 +6,7 @@
 
 - 👨‍💻 I’m currently working on game development technologies like Unity, C# etc.
 - 📚 I’m currently learning everything about Frontend or Web development in general 😅.
-- 💪🏼 Future Goals: 🎮 Finish my Bossical project, 🔎 Learn new technologies. 
+- 💪🏼 Future Goals: 🎮 Get in a good university, preferably UIT, 🔎 Learn new technologies. 
 - ⚡ Fun fact: I have been coding since grade 5 👶🏻. 
 - Instrument I enjoy: Piano 🎹, Violin 🎻.
 - ⌨ Game I play: League of Legends. 
