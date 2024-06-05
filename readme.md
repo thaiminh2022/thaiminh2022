@@ -32,6 +32,8 @@
 ### Languages and Tools 🛠 
 ![C#](https://img.shields.io/badge/-CSharp-darkgreen?style=flat-square&logo=csharp&logoColor=white)
 ![Rust](https://img.shields.io/badge/-Rust-orange?style=flat-square&logo=rust&logoColor=black)
+![Gleam](https://img.shields.io/badge/-Gleam-magenta?style=flat-square&logo=gleam&logoColor=black)
+![GDScript](https://img.shields.io/badge/-GDScript-cyan?style=flat-square&logo=godot&logoColor=black)
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=ffffff)
