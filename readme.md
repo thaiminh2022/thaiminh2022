@@ -4,12 +4,11 @@
 
 ## I'm a student from Vietnam. 
 
-- I’m currently working on game development technologies like Unity, C# etc.
-- I’m currently learning everything about Frontend or Web development in general.
-- Future Goals: ~~Get in a good university, preferably UIT~~, 🔎 Learn new technologies. 
+- I’m lock in on game development technologies like Unity, C# etc.
+- Future Goals: Make tons of $$$ and retire
 - Fun fact: I have been coding since grade 5. 
 - Instrument I enjoy: Piano, Violin.
-- Game I play: League of Legends, Minecraft. 
+- Game I play: Elden Ring, Sekiro, Minecraft
 
 ---
 
